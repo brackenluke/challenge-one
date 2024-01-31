@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* Background */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Header Section */
 
 .header {
     padding: 20px;
@@ -41,6 +45,8 @@ body {
     margin-left: 25px;
 }
 
+/* Body font and Hero picture */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -74,6 +80,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Side Bar */
 
 .benefits {
     margin-right: 20px;
@@ -116,6 +124,8 @@ p {
     text-align: center;
 }
 
+/* Side bar pictures */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,6 +143,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Body pictures and Text */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -187,6 +199,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer Section */
 
 .footer {
     padding: 30px;
