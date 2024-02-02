@@ -1,7 +1,9 @@
-# challenge-one
-semantic-element-challenge
+# html-practice
+semantic-element-challenge-that-helps-learn-html-principles-like-git-and-github
 ## challenge-website
-webpage-for-search-engine-optimization
+webpage-for-search-engine-optimization-this-application-has-links-and-pictures
+## webpage-description
+webpage-is-mainly-used-for-html-and-css-practice-but-there-are-some-links-at-the-top-used-to-help-with-accessibility
 ## webpage-access
 URL: https://brackenluke.github.io/challenge-one/
 ## repo-access
