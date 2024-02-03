@@ -7,6 +7,6 @@ webpage-is-mainly-used-for-html-and-css-practice-but-there-are-some-links-at-the
 ## webpage-access
 URL: https://brackenluke.github.io/challenge-one/
 ## repo-access
-URL: https://github.com/brackenluke/challenge-one
-## webpage-URL
+GitHub URL: https://github.com/brackenluke/challenge-one
+## webpage-screenshot-url
 Screenshot: https://gyazo.com/8a2af51eb28585b0e8e9f4a15580407e
