@@ -5,8 +5,8 @@ webpage-for-search-engine-optimization-this-application-has-links-and-pictures
 ## webpage-description
 webpage-is-mainly-used-for-html-and-css-practice-but-there-are-some-links-at-the-top-used-to-help-with-accessibility
 ## webpage-access
-URL: https://brackenluke.github.io/challenge-one/
+URL: https://brackenluke.github.io/horiseon-refractor-practice/
 ## repo-access
-GitHub URL: https://github.com/brackenluke/challenge-one
+GitHub URL: https://github.com/brackenluke/horiseon-refractor-practice
 ## webpage-screenshot-url
 Screenshot: https://gyazo.com/8a2af51eb28585b0e8e9f4a15580407e
